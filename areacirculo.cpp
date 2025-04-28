@@ -9,7 +9,7 @@ int main() {
 altura=radio*radio;
     area = 3.14*altura;
 
-    cout << "El area del triangulo es: " << area << endl;
+    cout << "El area del circulo es: " << area << endl;
 
     return 0;
 }

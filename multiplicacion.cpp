@@ -4,7 +4,7 @@ int main()
 int a;
 int e;
 int l;
-std::cout<<"ingrese los dos valores a sumar\n";
+std::cout<<"ingrese los dos valores a multiplicar\n";
 std::cin>> a;
 std::cin>> e;
 l=a*e;

@@ -1,10 +1,10 @@
-#include "iostream"
+#include <iostream>
 int main()
 {
 int a;
 int e;
 int l;
-std::cout<<"ingrese los dos valores a sumar\n";
+std::cout<<"ingrese los dos valores a dividir\n";
 std::cin>> a;
 std::cin>> e;
 l=a/e;
